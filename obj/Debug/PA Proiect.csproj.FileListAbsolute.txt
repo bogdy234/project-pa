@@ -1,0 +1,12 @@
+C:\Users\filim\source\repos\PA Proiect\bin\Debug\Database1.mdf
+C:\Users\filim\source\repos\PA Proiect\bin\Debug\Database1_log.ldf
+C:\Users\filim\source\repos\PA Proiect\bin\Debug\PA Proiect.exe.config
+C:\Users\filim\source\repos\PA Proiect\bin\Debug\PA Proiect.exe
+C:\Users\filim\source\repos\PA Proiect\bin\Debug\PA Proiect.pdb
+C:\Users\filim\source\repos\PA Proiect\obj\Debug\PA Proiect.csproj.AssemblyReference.cache
+C:\Users\filim\source\repos\PA Proiect\obj\Debug\PA_Proiect.Form1.resources
+C:\Users\filim\source\repos\PA Proiect\obj\Debug\PA_Proiect.Properties.Resources.resources
+C:\Users\filim\source\repos\PA Proiect\obj\Debug\PA Proiect.csproj.GenerateResource.cache
+C:\Users\filim\source\repos\PA Proiect\obj\Debug\PA Proiect.csproj.CoreCompileInputs.cache
+C:\Users\filim\source\repos\PA Proiect\obj\Debug\PA Proiect.exe
+C:\Users\filim\source\repos\PA Proiect\obj\Debug\PA Proiect.pdb
